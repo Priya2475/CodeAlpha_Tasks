@@ -105,3 +105,52 @@ Predict product sales based on advertising expenditure.
 ---
 
 # 📁 Repository Structure
+CodeAlpha_DataScience/
+
+│── Task1_Iris_Classification.ipynb
+│── Task2_Unemployment_Analysis.ipynb
+│── Task3_Car_Price_Prediction.ipynb
+│── Task4_Sales_Prediction.ipynb
+│── datasets/
+│── README.md
+
+---
+
+# 🎯 Learning Outcomes
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Classification
+- Regression
+- Feature Engineering
+- Data Visualization
+- Model Evaluation
+- Machine Learning Fundamentals
+
+---
+
+# 🚀 Future Improvements
+
+- Hyperparameter tuning
+- Cross-validation
+- Model deployment using Streamlit or Flask
+- Interactive dashboards
+- Advanced feature engineering
+
+---
+
+# 👩‍💻 Author
+
+**Priya S**
+
+Data Science Intern - CodeAlpha
+
+GitHub: https://github.com/YourUsername
+
+LinkedIn: https://linkedin.com/in/YourProfile
+
+---
+
+## ⭐ Acknowledgements
+
+Thanks to **CodeAlpha** for providing practical machine learning projects and an opportunity to enhance my data science skills.
